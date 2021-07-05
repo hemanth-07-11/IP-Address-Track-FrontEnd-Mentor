@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/IP-Address-Track-FrontEnd-Mentor/static/css/main.46cb6e11.chunk.css",
+    "main.js": "/IP-Address-Track-FrontEnd-Mentor/static/js/main.ce598621.chunk.js",
+    "main.js.map": "/IP-Address-Track-FrontEnd-Mentor/static/js/main.ce598621.chunk.js.map",
+    "runtime-main.js": "/IP-Address-Track-FrontEnd-Mentor/static/js/runtime-main.0b96dca6.js",
+    "runtime-main.js.map": "/IP-Address-Track-FrontEnd-Mentor/static/js/runtime-main.0b96dca6.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/IP-Address-Track-FrontEnd-Mentor/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.210a6c9b.chunk.js": "/IP-Address-Track-FrontEnd-Mentor/static/js/2.210a6c9b.chunk.js",
+    "static/js/2.210a6c9b.chunk.js.map": "/IP-Address-Track-FrontEnd-Mentor/static/js/2.210a6c9b.chunk.js.map",
+    "index.html": "/IP-Address-Track-FrontEnd-Mentor/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/IP-Address-Track-FrontEnd-Mentor/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.46cb6e11.chunk.css.map": "/IP-Address-Track-FrontEnd-Mentor/static/css/main.46cb6e11.chunk.css.map",
+    "static/js/2.210a6c9b.chunk.js.LICENSE.txt": "/IP-Address-Track-FrontEnd-Mentor/static/js/2.210a6c9b.chunk.js.LICENSE.txt",
+    "static/media/Main.css": "/IP-Address-Track-FrontEnd-Mentor/static/media/Navbg.a60a3c85.png",
+    "static/media/icon-arrow.2eaaa5ee.svg": "/IP-Address-Track-FrontEnd-Mentor/static/media/icon-arrow.2eaaa5ee.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b96dca6.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.210a6c9b.chunk.js",
+    "static/css/main.46cb6e11.chunk.css",
+    "static/js/main.ce598621.chunk.js"
+  ]
+}
